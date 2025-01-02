@@ -11,4 +11,5 @@ and a 15% sales increase in specific months.
 gender-specific trends and supporting data-driven decisions
 
 # Dashboard
-+ ![Screenshot 2024-11-08 152546](https://github.com/user-attachments/assets/cbe9b221-d61a-4f1d-99ff-1916df936a5c)
++ ![Screenshot 2024-10-28 193959](https://github.com/user-attachments/assets/470c7976-0366-47de-a34e-04965cb9ddcb)
+ 
